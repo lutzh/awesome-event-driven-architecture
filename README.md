@@ -9,3 +9,9 @@ A list of awesome articles and resources to learn about event-driven architectur
 
 Of course if you think something awesome is missing from the list, you can suggest its inclusion by creating a PR.
 
+
+## 📕 Articles
+
+- [Going “Events-First” for Microservices with Event Storming and DDD](https://medium.com/russmiles/going-events-first-for-microservices-with-event-storming-and-ddd-8614437486f0) by Russ Miles - _"It is **not the things** that matter in early stages of design - **it is the things that happen**."_
+
+
