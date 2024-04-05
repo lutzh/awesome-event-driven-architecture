@@ -15,3 +15,8 @@ Of course if you think something awesome is missing from the list, you can sugge
 - [Going “Events-First” for Microservices with Event Storming and DDD](https://medium.com/russmiles/going-events-first-for-microservices-with-event-storming-and-ddd-8614437486f0) by Russ Miles - _"It is **not the things** that matter in early stages of design - **it is the things that happen**."_
 
 
+## 📺 Videos
+
+- [EDA in Practice: Building an eCommerce Platform at Cinch](https://www.youtube.com/watch?v=wM-dTroS0FA&t=493s) by Toli Apostolidis - You can ignore the first 8 minutes and 15 seconds (in fact the link will skip them), they are mostly promotion for AWS, but from there on follows a good talk on real-world experiences with event-driven architecture.
+
+
