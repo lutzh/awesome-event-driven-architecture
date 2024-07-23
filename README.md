@@ -17,14 +17,20 @@ Of course if you think something awesome is missing from the list, you can sugge
 
 ## 📺 Videos
 
-- [Core Decisions in Event-Driven Architecture](https://www.youtube.com/watch?v=wM-dTroS0FA&t=493s) by Duana Stanley. Overall a great talk, definitely worth watching. Some minor issues:
+### Fundamentals
+
+- [Core Decisions in Event-Driven Architecture](https://youtu.be/SKXS2h3MdPM?si=LeamTGy93vAy2QYc) by Duana Stanley, October 2019. Overall a great talk, definitely worth watching. Some minor issues:
     - The advice to use ids in events to refer to other entities is not wrong, but needs deeper discussion. 
     - I don't like the term "command events", something is either a command or an event.
     - In the end she hints at Kafka as an event store, I don't think that's good idea. 
+- [Event-Driven Architectures Done Right](https://youtu.be/A_mstzRGfIE?si=An0YI1034-PazFc5) by Tim Berglund, May 2021.
 
 
 
-- [EDA in Practice: Building an eCommerce Platform at Cinch](https://www.youtube.com/watch?v=wM-dTroS0FA&t=493s) by Toli Apostolidis - You can ignore the first 8 minutes and 15 seconds (in fact the link will skip them), they are mostly promotion for AWS. But from there on follows a good talk on real-world experiences with event-driven architecture.
+### Experience Reports
+
+
+- [EDA in Practice: Building an eCommerce Platform at Cinch](https://www.youtube.com/watch?v=wM-dTroS0FA&t=493s) by Toli Apostolidis, September 2022. You can ignore the first 8 minutes and 15 seconds (in fact the link will skip them), they are mostly promotion for AWS. But from there on follows a good talk on real-world experiences with event-driven architecture.
 
 
 
