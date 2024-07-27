@@ -15,7 +15,9 @@ Of course if you think something awesome is missing from the list, you can sugge
 
 ## 📕 Articles
 
-- [Going “Events-First” for Microservices with Event Storming and DDD](https://medium.com/russmiles/going-events-first-for-microservices-with-event-storming-and-ddd-8614437486f0) by Russ Miles - _"It is **not the things** that matter in early stages of design - **it is the things that happen**."_
+- [Introduction to Event-Driven Architecture](https://medium.com/microservicegeeks/introduction-to-event-driven-architecture-e94ef442d824) by Kacey Bui, February 2021.
+
+- [Going “Events-First” for Microservices with Event Storming and DDD](https://medium.com/russmiles/going-events-first-for-microservices-with-event-storming-and-ddd-8614437486f0) by Russ Miles, April 2022. _"It is **not the things** that matter in early stages of design - **it is the things that happen**."_
 
 
 ## 📺 Videos
