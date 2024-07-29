@@ -7,13 +7,15 @@
 A list of awesome articles and resources to learn about event-driven architecture. 
 
 
-Please note that the list is **highly curated**. The aspiration is to assemble those resources that the curator fully endorses and recommends, not as many as possible. In the spirit of the [Awesome Lists Guidelines](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md): _"Awesome lists are curations of the best, not everything."_
+Please note that the list is **highly curated**. The aspiration is to assemble resources that excel in providing clarity around the principles and terminology. As a whole, the collection should provide a comprehensive and consistent overview of the topic. In the spirit of the [Awesome Lists Guidelines](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md): _"Awesome lists are curations of the best, not everything."_
 
 
-Of course if you think something awesome is missing from the list, you can suggest its inclusion by creating a PR.
+Of course if you think something that belongs in the list is missing, you can suggest its inclusion by creating a PR.
 
 
 ## 📕 Articles
+
+- [Why Event-First Programming Changes Everything](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/) by Neil Avery, January 2019.
 
 - [Introduction to Event-Driven Architecture](https://medium.com/microservicegeeks/introduction-to-event-driven-architecture-e94ef442d824) by Kacey Bui, February 2021.
 
