@@ -19,7 +19,10 @@ Of course if you think something that belongs in the list is missing, you can su
 
 - [Introduction to Event-Driven Architecture](https://medium.com/microservicegeeks/introduction-to-event-driven-architecture-e94ef442d824) by Kacey Bui, February 2021.
 
+- [The different types of events in event-driven systems](https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-systems/) and [Reliable event dispatching using a transactional outbox](https://blog.frankdejonge.nl/reliable-event-dispatching-using-a-transactional-outbox/) by Frank de Jonge, February 2022
+
 - [Going “Events-First” for Microservices with Event Storming and DDD](https://medium.com/russmiles/going-events-first-for-microservices-with-event-storming-and-ddd-8614437486f0) by Russ Miles, April 2022. _"It is **not the things** that matter in early stages of design - **it is the things that happen**."_
+
 
 
 ## 📺 Videos
