@@ -7,11 +7,6 @@
 A list of awesome articles and resources to learn about event-driven architecture. 
 
 
-Please note that the list is **highly curated**. The aspiration is to assemble resources that excel in providing clarity around the principles and terminology. As a whole, the collection should provide a comprehensive and consistent overview of the topic. In the spirit of the [Awesome Lists Guidelines](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md): _"Awesome lists are curations of the best, not everything."_
-
-
-Of course if you think something that belongs in the list is missing, you can suggest its inclusion in an [issue](https://github.com/reactivesystems-eu/awesome-event-driven-architecture/issues) or [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
-
 
 ## 📕 Articles
 
@@ -43,4 +38,14 @@ Of course if you think something that belongs in the list is missing, you can su
 - [EDA in Practice: Building an eCommerce Platform at Cinch](https://www.youtube.com/watch?v=wM-dTroS0FA&t=493s) by Toli Apostolidis, September 2022. You can ignore the first 8 minutes and 15 seconds (in fact the link will skip them), they are mostly promotion for AWS. But from there on follows a good talk on real-world experiences with event-driven architecture.
 
 
+
+## Addendum
+
+Please note that the list is **highly curated**. The aspiration is to assemble resources that excel in providing clarity around the principles and terminology. As a whole, the collection should provide a comprehensive and consistent overview of the topic. In the spirit of the [Awesome Lists Guidelines](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md): _"Awesome lists are curations of the best, not everything."_
+
+
+Of course if you think something that belongs in the list is missing, you can suggest its inclusion in an [issue](https://github.com/reactivesystems-eu/awesome-event-driven-architecture/issues) or [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+
+
+To be updated about changes, follow me on [Mastodon](https://mastodon.social/@lutzhuehnken), [Bluesky](https://bsky.app/profile/lutzh.bsky.social) or [LinkedIn](https://de.linkedin.com/in/lutzh). If you find this interesting, you might also like my [blog](https://www.reactivesystems.eu/).
 
