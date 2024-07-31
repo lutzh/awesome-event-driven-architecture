@@ -8,7 +8,10 @@ A list of awesome articles and resources to learn about event-driven architectur
 
 
 
+
 ## 📕 Articles
+
+- [Going “Events-First” for Microservices with Event Storming and DDD](https://medium.com/russmiles/going-events-first-for-microservices-with-event-storming-and-ddd-8614437486f0) by Russ Miles, October 2016. _"It is **not the things** that matter in early stages of design - **it is the things that happen**."_
 
 - [Events As First-Class Citizens](https://hackernoon.com/events-as-first-class-citizens-8633e8479493?gi=5ecff3301dfa) by Randy Shoup, January 2018.
 
@@ -17,8 +20,6 @@ A list of awesome articles and resources to learn about event-driven architectur
 - [Introduction to Event-Driven Architecture](https://medium.com/microservicegeeks/introduction-to-event-driven-architecture-e94ef442d824) by Kacey Bui, February 2021.
 
 - [The different types of events in event-driven systems](https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-systems/) and [Reliable event dispatching using a transactional outbox](https://blog.frankdejonge.nl/reliable-event-dispatching-using-a-transactional-outbox/) by Frank de Jonge, February 2022
-
-- [Going “Events-First” for Microservices with Event Storming and DDD](https://medium.com/russmiles/going-events-first-for-microservices-with-event-storming-and-ddd-8614437486f0) by Russ Miles, April 2022. _"It is **not the things** that matter in early stages of design - **it is the things that happen**."_
 
 
 
@@ -30,6 +31,7 @@ A list of awesome articles and resources to learn about event-driven architectur
     - The advice to use ids in events to refer to other entities is not wrong, but needs deeper discussion. 
     - I don't like the term "command events", something is either a command or an event.
     - In the end she hints at Kafka as an event store, I don't think that's good idea. 
+
 - [Event-Driven Architectures Done Right](https://youtu.be/A_mstzRGfIE?si=An0YI1034-PazFc5) by Tim Berglund, May 2021.
 
 
