@@ -11,6 +11,8 @@ A list of awesome articles and resources to learn about event-driven architectur
 
 ## 📕 Articles
 
+### Fundamentals
+
 - [Going “Events-First” for Microservices with Event Storming and DDD](https://medium.com/russmiles/going-events-first-for-microservices-with-event-storming-and-ddd-8614437486f0) by Russ Miles, October 2016. _"It is **not the things** that matter in early stages of design - **it is the things that happen**."_
 
 - [Events As First-Class Citizens](https://hackernoon.com/events-as-first-class-citizens-8633e8479493?gi=5ecff3301dfa) by Randy Shoup, January 2018.
@@ -19,7 +21,12 @@ A list of awesome articles and resources to learn about event-driven architectur
 
 - [Introduction to Event-Driven Architecture](https://medium.com/microservicegeeks/introduction-to-event-driven-architecture-e94ef442d824) by Kacey Bui, February 2021.
 
+
+### Experience Reports And Practicalities
+
 - [The different types of events in event-driven systems](https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-systems/) and [Reliable event dispatching using a transactional outbox](https://blog.frankdejonge.nl/reliable-event-dispatching-using-a-transactional-outbox/) by Frank de Jonge, February 2022
+
+- [5 pitfalls to avoid when implementing an Event-Driven Architecture](https://medium.com/@kris_22373/5-pitfalls-to-avoid-when-implementing-an-event-driven-architecture-7fb04d7fa7ca) by Kris Van Vlaenderen, January 2024
 
 
 
@@ -36,12 +43,11 @@ A list of awesome articles and resources to learn about event-driven architectur
 
 
 
-### Experience Reports
+### Experience Reports And Practicalities
 
 
 - [EDA in Practice: Building an eCommerce Platform at Cinch](https://www.youtube.com/watch?v=wM-dTroS0FA&t=493s) by Toli Apostolidis, September 2022. You can ignore the first 8 minutes and 15 seconds (in fact the link will skip them), they are mostly promotion for AWS. But from there on follows a good talk on real-world experiences with event-driven architecture.
 
-- [5 pitfalls to avoid when implementing an Event-Driven Architecture](https://medium.com/@kris_22373/5-pitfalls-to-avoid-when-implementing-an-event-driven-architecture-7fb04d7fa7ca) by Kris Van Vlaenderen, January 2024
 
 
 
