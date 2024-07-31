@@ -10,6 +10,8 @@ A list of awesome articles and resources to learn about event-driven architectur
 
 ## 📕 Articles
 
+- [Events As First-Class Citizens](https://hackernoon.com/events-as-first-class-citizens-8633e8479493?gi=5ecff3301dfa) by Randy Shoup, January 2018.
+
 - [Why Event-First Programming Changes Everything](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/) by Neil Avery, January 2019.
 
 - [Introduction to Event-Driven Architecture](https://medium.com/microservicegeeks/introduction-to-event-driven-architecture-e94ef442d824) by Kacey Bui, February 2021.
@@ -36,6 +38,8 @@ A list of awesome articles and resources to learn about event-driven architectur
 
 
 - [EDA in Practice: Building an eCommerce Platform at Cinch](https://www.youtube.com/watch?v=wM-dTroS0FA&t=493s) by Toli Apostolidis, September 2022. You can ignore the first 8 minutes and 15 seconds (in fact the link will skip them), they are mostly promotion for AWS. But from there on follows a good talk on real-world experiences with event-driven architecture.
+
+- [5 pitfalls to avoid when implementing an Event-Driven Architecture](https://medium.com/@kris_22373/5-pitfalls-to-avoid-when-implementing-an-event-driven-architecture-7fb04d7fa7ca) by Kris Van Vlaenderen, January 2024
 
 
 
