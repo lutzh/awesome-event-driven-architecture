@@ -59,5 +59,6 @@ Please note that the list is **highly curated**. The aspiration is to assemble r
 Of course if you think something that belongs in the list is missing, you can suggest its inclusion in an [issue](https://github.com/reactivesystems-eu/awesome-event-driven-architecture/issues) or [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
 
-To be updated about changes, follow me on [Mastodon](https://mastodon.social/@lutzhuehnken), [Bluesky](https://bsky.app/profile/lutzh.bsky.social) or [LinkedIn](https://de.linkedin.com/in/lutzh). If you find this interesting, you might also like my [blog](https://www.reactivesystems.eu/).
+To be updated about changes, follow me on <a href="https://mastodon.social/@lutzhuehnken" rel="me">Mastodon</a>, <a href="https://bsky.app/profile/lutzh.bsky.social">Bluesky</a> or <a href="https://de.linkedin.com/in/lutzh">LinkedIn</a>. If you find this interesting, you might also like my <a href="https://www.reactivesystems.eu/">blog</a>.
+
 
