@@ -24,11 +24,15 @@ A list of awesome articles and resources to learn about event-driven architectur
 
 ### Experience Reports And Practicalities
 
+- [Event Granularity: Modelling events in event driven applications](https://barryosull.com/blog/event-granularity-modelling-events-in-event-driven-applications/) by Barry O'Sullivan, December 2017
+  
 - [The different types of events in event-driven systems](https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-systems/) and [Reliable event dispatching using a transactional outbox](https://blog.frankdejonge.nl/reliable-event-dispatching-using-a-transactional-outbox/) by Frank de Jonge, February 2022
 
 - [5 pitfalls to avoid when implementing an Event-Driven Architecture](https://medium.com/@kris_22373/5-pitfalls-to-avoid-when-implementing-an-event-driven-architecture-7fb04d7fa7ca) by Kris Van Vlaenderen, January 2024
 
+- 
 
+https://barryosull.com/blog/event-granularity-modelling-events-in-event-driven-applications/
 
 ## 📺 Videos
 
