@@ -1,18 +1,24 @@
+<!-- omit in toc -->
+# Awesome Event-Driven Architecture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Awesome Event-Driven Architecture
+A curated list of awesome articles and resources to learn about event-driven architecture. 
 
-<a href="https://github.com/sindresorhus/awesome" ><img alt="awesome" src="https://awesome.re/badge-flat2.svg?style=flat-square" /></a>
 <a href="https://github.com/mehdihadeli/awesome-software-architecture/blob/main/LICENSE" ><img alt="license" src="https://img.shields.io/badge/License-CC0_1.0-E91E63.svg?style=flat-square" /></a>
 
 
-A list of awesome articles and resources to learn about event-driven architecture. 
-
-
-
-
+<!-- omit in toc -->
+## Contents
+  
+- [📕 Articles](#-articles)
+  - [Foundational](#foundational)
+  - [Experience Reports And Practicalities](#experience-reports-and-practicalities)
+- [📺 Videos](#-videos)
+  - [Foundational](#foundational-1)
+  - [Experience Reports And Practicalities](#experience-reports-and-practicalities-1)
+  
 ## 📕 Articles
 
-### Fundamentals
+### Foundational
 
 - [Going “Events-First” for Microservices with Event Storming and DDD](https://medium.com/russmiles/going-events-first-for-microservices-with-event-storming-and-ddd-8614437486f0) - By Russ Miles, October 2016. _"It is **not the things** that matter in early stages of design - **it is the things that happen**."_
 
@@ -37,12 +43,13 @@ A list of awesome articles and resources to learn about event-driven architectur
 
 ## 📺 Videos
 
-### Fundamentals
+### Foundational
 
-- [Core Decisions in Event-Driven Architecture](https://youtu.be/SKXS2h3MdPM?si=LeamTGy93vAy2QYc) - By Duana Stanley, October 2019. Overall a great talk, definitely worth watching. Some minor issues:
+- [Core Decisions in Event-Driven Architecture](https://youtu.be/SKXS2h3MdPM?si=LeamTGy93vAy2QYc) - By Duana Stanley, October 2019. Overall a great talk, definitely worth watching. Below are some minor issues I have with it.
     - The advice to use ids in events to refer to other entities is not wrong, but needs deeper discussion. 
     - I don't like the term "command events", something is either a command or an event.
     - In the end she hints at Kafka as an event store, I don't think that's good idea. 
+  
 
 - [Event-Driven Architectures Done Right](https://youtu.be/A_mstzRGfIE?si=An0YI1034-PazFc5) - By Tim Berglund, May 2021.
 
@@ -55,8 +62,8 @@ A list of awesome articles and resources to learn about event-driven architectur
 
 
 
-
-## Addendum
+<!-- omit in toc -->
+## Contributing
 
 Please note that the list is **highly curated**. The aspiration is to assemble resources that excel in providing clarity around the principles and terminology. As a whole, the collection should provide a comprehensive and consistent overview of the topic. In the spirit of the [Awesome Lists Guidelines](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md): _"Awesome lists are curations of the best, not everything."_
 
