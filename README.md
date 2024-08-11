@@ -1,4 +1,5 @@
-  <h1 align="center">Awesome Event-Driven Architecture</h1>
+
+<h1 align="center">Awesome Event-Driven Architecture</h1>
 <p align="center">
     <a href="https://github.com/sindresorhus/awesome" ><img alt="awesome" src="https://awesome.re/badge-flat2.svg?style=flat-square" /></a>
     <a href="https://github.com/mehdihadeli/awesome-software-architecture/blob/main/LICENSE" ><img alt="license" src="https://img.shields.io/badge/License-CC0_1.0-E91E63.svg?style=flat-square" /></a>
