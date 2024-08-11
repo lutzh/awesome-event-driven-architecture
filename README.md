@@ -1,9 +1,9 @@
 
-<h1 align="center">Awesome Event-Driven Architecture</h1>
-<p align="center">
-    <a href="https://github.com/sindresorhus/awesome" ><img alt="awesome" src="https://awesome.re/badge-flat2.svg?style=flat-square" /></a>
-    <a href="https://github.com/mehdihadeli/awesome-software-architecture/blob/main/LICENSE" ><img alt="license" src="https://img.shields.io/badge/License-CC0_1.0-E91E63.svg?style=flat-square" /></a>
-</p>
+# Awesome Event-Driven Architecture
+
+<a href="https://github.com/sindresorhus/awesome" ><img alt="awesome" src="https://awesome.re/badge-flat2.svg?style=flat-square" /></a>
+<a href="https://github.com/mehdihadeli/awesome-software-architecture/blob/main/LICENSE" ><img alt="license" src="https://img.shields.io/badge/License-CC0_1.0-E91E63.svg?style=flat-square" /></a>
+
 
 A list of awesome articles and resources to learn about event-driven architecture. 
 
@@ -25,14 +25,14 @@ A list of awesome articles and resources to learn about event-driven architectur
 
 ### Experience Reports And Practicalities
 
-- [Event Granularity: Modelling events in event driven applications](https://barryosull.com/blog/event-granularity-modelling-events-in-event-driven-applications/) - By Barry O'Sullivan, December 2017
+- [Event Granularity: Modelling events in event driven applications](https://barryosull.com/blog/event-granularity-modelling-events-in-event-driven-applications/) - By Barry O'Sullivan, December 2017.
   
-- [The different types of events in event-driven systems](https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-systems/) - By Frank de Jonge, February 2022
+- [The different types of events in event-driven systems](https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-systems/) - By Frank de Jonge, February 2022.
 
-- [Reliable event dispatching using a transactional outbox](https://blog.frankdejonge.nl/reliable-event-dispatching-using-a-transactional-outbox/) - By Frank de Jonge, February 2022
+- [Reliable event dispatching using a transactional outbox](https://blog.frankdejonge.nl/reliable-event-dispatching-using-a-transactional-outbox/) - By Frank de Jonge, February 2022.
 
 
-- [5 pitfalls to avoid when implementing an Event-Driven Architecture](https://medium.com/@kris_22373/5-pitfalls-to-avoid-when-implementing-an-event-driven-architecture-7fb04d7fa7ca) - By Kris Van Vlaenderen, January 2024
+- [5 pitfalls to avoid when implementing an Event-Driven Architecture](https://medium.com/@kris_22373/5-pitfalls-to-avoid-when-implementing-an-event-driven-architecture-7fb04d7fa7ca) - By Kris Van Vlaenderen, January 2024.
 
 
 ## 📺 Videos
