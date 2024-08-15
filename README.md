@@ -3,9 +3,6 @@
 
 A curated list of awesome articles and resources to learn about event-driven architecture. 
 
-<a href="https://github.com/mehdihadeli/awesome-software-architecture/blob/main/LICENSE" ><img alt="license" src="https://img.shields.io/badge/License-CC0_1.0-E91E63.svg?style=flat-square" /></a>
-
-
 <!-- omit in toc -->
 ## Contents
   
