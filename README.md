@@ -33,7 +33,7 @@ A curated list of awesome articles and resources to learn about event-driven arc
 
 - [Event Granularity: Modelling events in event driven applications](https://barryosull.com/blog/event-granularity-modelling-events-in-event-driven-applications/) - By Barry O'Sullivan, December 2017. About finding the right granularity for events.
   
-- [The different types of events in event-driven systems](https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-systems/) - By Frank de Jonge, February 2022. The are different approaches to classifying events - this is a very good one.
+- [The different types of events in event-driven systems](https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-systems/) - By Frank de Jonge, February 2022. There are different approaches to classifying events - this is a very good one.
 
 - [Reliable event dispatching using a transactional outbox](https://blog.frankdejonge.nl/reliable-event-dispatching-using-a-transactional-outbox/) - By Frank de Jonge, February 2022. Transactional outbox is a crucial pattern for services basing their persistence on CRUD/RDBMS.
 
