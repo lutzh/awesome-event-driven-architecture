@@ -24,7 +24,7 @@ A curated list of awesome articles and resources to learn about event-driven arc
 
 - [Events As First-Class Citizens](https://hackernoon.com/events-as-first-class-citizens-8633e8479493?gi=5ecff3301dfa) - By Randy Shoup, January 2018. Focusses on the most important part of EDA: The actual events.
 
-- [Why Event-First Programming Changes Everything](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/) - By Neil Avery, January 2019. Somewhat lengty article that's great in painting the "big picture".
+- [Why Event-First Programming Changes Everything](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/) - By Neil Avery, January 2019. Somewhat lengthy article that's great in painting the "big picture".
 
 - [Introduction to Event-Driven Architecture](https://medium.com/microservicegeeks/introduction-to-event-driven-architecture-e94ef442d824) - By Kacey Bui, February 2021. Good overview of the basics.
 
@@ -77,4 +77,5 @@ Of course if you think something that belongs in the list is missing, you can su
 ## Footnotes
 
 To be updated about changes, follow me on [Mastodon](https://mastodon.social/@lutzhuehnken), [Bluesky](https://bsky.app/profile/lutzh.bsky.social) or [LinkedIn](https://de.linkedin.com/in/lutzh). If you find this interesting, you might also like my [blog](https://www.reactivesystems.eu/).
+
 
