@@ -54,7 +54,7 @@ A curated list of awesome articles and resources to learn about event-driven arc
 - [Event-Driven Architectures Done Right](https://youtu.be/A_mstzRGfIE?si=An0YI1034-PazFc5) - By Tim Berglund, May 2021. Good overview, clear presentation.
 
 
-- [Shifting Gears: From Events to Event-Driven](https://youtu.be/1dWJO31wpV8?si=ejDZIAWlxTkZENMw) - By Rayn Cormack, May 2024. He tells the story of Motorway's journey to event driven, so it could also be in the "experience reports" section below. But along the way, he really focusses on the foundational aspects. 
+- [Shifting Gears: From Events to Event-Driven](https://youtu.be/1dWJO31wpV8?si=ejDZIAWlxTkZENMw) - By Ryan Cormack, May 2024. He tells the story of Motorway's journey to event driven, so it could also be in the "experience reports" section below. But along the way, he really focusses on the foundational aspects. 
 
 ### Experience Reports And Practicalities
 
