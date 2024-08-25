@@ -51,13 +51,17 @@ A curated list of awesome articles and resources to learn about event-driven arc
 - [Event-Driven Architectures Done Right](https://youtu.be/A_mstzRGfIE?si=An0YI1034-PazFc5) - By Tim Berglund, May 2021. Good overview, clear presentation.
 
 
-- [Shifting Gears: From Events to Event-Driven](https://youtu.be/1dWJO31wpV8?si=ejDZIAWlxTkZENMw) - By Ryan Cormack, May 2024. He tells the story of Motorway's journey to event driven, so it could also be in the "experience reports" section below. But along the way, he really focusses on the foundational aspects. 
+- [Event Driven Architecture & Governance in Action](https://youtu.be/9guR3CBTG44?si=k1lYZDWFDSn1RrKS) - By Wim Debreuck, June 2023. A talk that goes beyond the technical fundamentals, into the architecture and design process of event-driven applications. The shown approach might not be universal, but provides important insights. I especially like the clarity around business events.
+
+
 
 ### Experience Reports And Practicalities
 
 
 - [EDA in Practice: Building an eCommerce Platform at Cinch](https://www.youtube.com/watch?v=wM-dTroS0FA&t=493s) - By Toli Apostolidis, September 2022. You can ignore the first 8 minutes and 15 seconds (in fact the link will skip them), they are mostly promotion for AWS. But from there on follows a good talk on real-world experiences with event-driven architecture.
 
+
+- [Shifting Gears: From Events to Event-Driven](https://youtu.be/1dWJO31wpV8?si=ejDZIAWlxTkZENMw) - By Ryan Cormack, May 2024. He tells the story of Motorway's journey to event driven, and also includes a lot of oundational aspects. 
 
 
 <!-- omit in toc -->
