@@ -66,7 +66,7 @@ A curated list of awesome articles and resources to learn about event-driven arc
 
 ##  Related Topics
 
-- [Event Sourcing – the what, why & how](https://www.youtube.com/watch?v=1KlQVhVYiFU&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq)  - By Anita Kvamme, May 2024. While also event based, _Event Sourcing_ is not the same as _Event-Driven Architecture_. They complement each other well, but you can also use either without the other. Thankfully, this great overview of Event Sourcing makes that clear at the very start.
+- [Event Sourcing – What, Why & How](https://www.youtube.com/watch?v=1KlQVhVYiFU&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq)  - By Anita Kvamme, June 2024. While also event based, _Event Sourcing_ is not the same as _Event-Driven Architecture_. They complement each other well, but you can also use either without the other. Thankfully, this great overview of Event Sourcing makes that clear at the very start.
 
 
 <!-- omit in toc -->
