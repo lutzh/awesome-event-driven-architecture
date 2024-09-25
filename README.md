@@ -12,6 +12,7 @@ A curated list of awesome articles and resources to learn about event-driven arc
 - [📺 Videos](#-videos)
   - [Foundational](#foundational-1)
   - [Experience Reports And Practicalities](#experience-reports-and-practicalities-1)
+- [Related Topics](#related-topics)
   
 ## 📕 Articles
 
@@ -42,26 +43,30 @@ A curated list of awesome articles and resources to learn about event-driven arc
 
 ### Foundational
 
-- [Core Decisions in Event-Driven Architecture](https://youtu.be/SKXS2h3MdPM?si=LeamTGy93vAy2QYc) - By Duana Stanley, October 2019. Overall a great talk, definitely worth watching. Below are some minor issues I have with it.
+- [Core Decisions in Event-Driven Architecture](https://www.youtube.com/watch?v=SKXS2h3MdPM&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq) - By Duana Stanley, October 2019. Overall a great talk, definitely worth watching. Below are some minor issues I have with it.
     - The advice to use ids in events to refer to other entities is not wrong, but needs deeper discussion. 
     - I don't like the term "command events", something is either a command or an event.
     - In the end she hints at Kafka as an event store, I don't think that's good idea. 
   
 
-- [Event-Driven Architectures Done Right](https://youtu.be/A_mstzRGfIE?si=An0YI1034-PazFc5) - By Tim Berglund, May 2021. Good overview, clear presentation.
+- [Event-Driven Architectures Done Right](https://www.youtube.com/watch?v=A_mstzRGfIE&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq) - By Tim Berglund, May 2021. Good overview, clear presentation.
 
 
-- [Event Driven Architecture & Governance in Action](https://youtu.be/9guR3CBTG44?si=k1lYZDWFDSn1RrKS) - By Wim Debreuck, June 2023. A talk that goes beyond the technical fundamentals, into the architecture and design process of event-driven applications. The shown approach might not be universal, but provides important insights. I especially like the clarity around business events.
+- [Event Driven Architecture & Governance in Action](https://www.youtube.com/watch?v=9guR3CBTG44&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq) - By Wim Debreuck, June 2023. A talk that goes beyond the technical fundamentals, into the architecture and design process of event-driven applications. The shown approach might not be universal, but provides important insights. I especially like the clarity around business events.
 
 
 
 ### Experience Reports And Practicalities
 
 
-- [EDA in Practice: Building an eCommerce Platform at Cinch](https://www.youtube.com/watch?v=wM-dTroS0FA&t=493s) - By Toli Apostolidis, September 2022. You can ignore the first 8 minutes and 15 seconds (in fact the link will skip them), they are mostly promotion for AWS. But from there on follows a good talk on real-world experiences with event-driven architecture.
+- [EDA in Practice: Building an eCommerce Platform at Cinch](https://www.youtube.com/watch?v=wM-dTroS0FA&t=493s&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq) - By Toli Apostolidis, September 2022. You can ignore the first 8 minutes and 15 seconds (in fact the link will skip them), they are mostly promotion for AWS. But from there on follows a good talk on real-world experiences with event-driven architecture.
 
 
-- [Shifting Gears: From Events to Event-Driven](https://youtu.be/1dWJO31wpV8?si=ejDZIAWlxTkZENMw) - By Ryan Cormack, May 2024. He tells the story of Motorway's journey to event driven, and also includes a lot of foundational aspects. 
+- [Shifting Gears: From Events to Event-Driven](https://www.youtube.com/watch?v=1dWJO31wpV8&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq) - By Ryan Cormack, May 2024. He tells the story of Motorway's journey to event driven, and also includes a lot of foundational aspects. 
+
+##  Related Topics
+
+- [Event Sourcing – the what, why & how](https://www.youtube.com/watch?v=1KlQVhVYiFU&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq)  - By Anita Kvamme, May 2024. While also event based, _Event Sourcing_ is not the same as _Event-Driven Architecture_. They complement each other well, but you can also use either without the other. Thankfully, this great overview of Event Sourcing makes that clear at the very start.
 
 
 <!-- omit in toc -->
