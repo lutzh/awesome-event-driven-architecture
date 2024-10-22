@@ -6,9 +6,6 @@ A curated list of awesome articles and resources to learn about event-driven arc
 Event-driven architecture is a software architecture approach where services collaborate by publishing and subscribing to events. This eliminates runtime coupling of services.
 
 
-
-
-
 <!-- omit in toc -->
 ## Contents
   
