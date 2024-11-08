@@ -38,8 +38,10 @@ Event-driven architecture is a software architecture approach where services col
 
 - [Reliable event dispatching using a transactional outbox](https://blog.frankdejonge.nl/reliable-event-dispatching-using-a-transactional-outbox/) - By Frank de Jonge, February 2022. Transactional outbox is a crucial pattern for services basing their persistence on CRUD/RDBMS.
 
+- [Event Driven Architecture — 5 Pitfalls to Avoid](https://medium.com/wix-engineering/event-driven-architecture-5-pitfalls-to-avoid-b3ebf885bdb1) - By Natan Silnitsky, August 2022. Especially when you only just get started, check this to spare you some frustration later. You might also want to check the "Further Reading" section at the end. 
 
-- [5 pitfalls to avoid when implementing an Event-Driven Architecture](https://medium.com/@kris_22373/5-pitfalls-to-avoid-when-implementing-an-event-driven-architecture-7fb04d7fa7ca) - By Kris Van Vlaenderen, January 2024. Some good advice here.
+- [5 pitfalls to avoid when implementing an Event-Driven Architecture](https://medium.com/@kris_22373/5-pitfalls-to-avoid-when-implementing-an-event-driven-architecture-7fb04d7fa7ca) - By Kris Van Vlaenderen, January 2024. Sounds very similar to the previous one. But it's not a case of duplicate events - it's actually 5 different pieces of advice.
+
 
 
 ## 📺 Videos
