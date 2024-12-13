@@ -40,6 +40,7 @@ Event-driven architecture is a software architecture approach where services col
     - In the end she hints at Kafka as an event store, I don't think that's good idea. 
 - [Event-Driven Architectures Done Right](https://www.youtube.com/watch?v=A_mstzRGfIE&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq) - By Tim Berglund, May 2021. Good overview, clear presentation.
 - [Event Driven Architecture & Governance in Action](https://www.youtube.com/watch?v=9guR3CBTG44&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq) - By Wim Debreuck, June 2023. A talk that goes beyond the technical fundamentals, into the architecture and design process of event-driven applications. The shown approach might not be universal, but provides important insights. I especially like the clarity around business events.
+- [Event-Driven Architecture Explained in 15 Minutes](https://www.youtube.com/watch?v=Fb_0UOD2X2I&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq) - By Dave Farley, July 2024. Watching videos by Dave Farley is always time well spent, and his short take on event-driven architecture is no exception. 
 
 ### Experience Reports And Practicalities
 - [EDA in Practice: Building an eCommerce Platform at Cinch](https://www.youtube.com/watch?v=wM-dTroS0FA&t=493s&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq) - By Toli Apostolidis, September 2022. You can ignore the first 8 minutes and 15 seconds (in fact the link will skip them), they are mostly promotion for AWS. But from there on follows a good talk on real-world experiences with event-driven architecture.
