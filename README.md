@@ -65,6 +65,6 @@ Of course if you think something that belongs in the list is missing, you can su
 <!-- omit in toc -->
 ## Footnotes
 
-To be updated about changes, follow me on [Mastodon](https://mastodon.social/@lutzhuehnken), [Bluesky](https://bsky.app/profile/huehnken.de) or [LinkedIn](https://de.linkedin.com/in/lutzh). If you find this interesting, you might also like my [blog](https://www.reactivesystems.eu/).
+To be updated about changes, follow me on <a href="https://mastodon.social/@lutzhuehnken" rel="me">Mastodon</a>, [Bluesky](https://bsky.app/profile/huehnken.de) or [LinkedIn](https://de.linkedin.com/in/lutzh). If you find this interesting, you might also like my [blog](https://www.reactivesystems.eu/).
 
 
