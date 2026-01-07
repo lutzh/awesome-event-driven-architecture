@@ -23,6 +23,7 @@ Event-driven architecture is a software architecture approach where services col
 - [Events As First-Class Citizens](https://hackernoon.com/events-as-first-class-citizens-8633e8479493?gi=5ecff3301dfa) - By Randy Shoup, January 2018. Focusses on the most important part of EDA: The actual events.
 - [Why Event-First Programming Changes Everything](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/) - By Neil Avery, January 2019. Somewhat lengthy article that's great in painting the "big picture".
 - [Introduction to Event-Driven Architecture](https://medium.com/microservicegeeks/introduction-to-event-driven-architecture-e94ef442d824) - By Kacey Bui, February 2021. Good overview of the basics.
+- [Orchestration vs. Choreography](https://www.ben-morris.com/orchestration-vs-choreography-for-microservice-workflows/) - By Ben Morris, December 2021. Every non-trivial system involves workflows that span multiple services. There are opposing schools of thought on how to handle this. Ben Morris gives a short, balanced introduction.
 
 ### Experience Reports And Practicalities
 - [Event Granularity: Modelling events in event driven applications](https://barryosull.com/blog/event-granularity-modelling-events-in-event-driven-applications/) - By Barry O'Sullivan, December 2017. About finding the right granularity for events.  
