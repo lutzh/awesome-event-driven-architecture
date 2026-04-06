@@ -7,6 +7,7 @@ Event-driven architecture is a software architecture approach where services col
 
 
 <!-- omit in toc -->
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for event-driven architecture workflow orchestration, automated messaging pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
   
 - [📕 Articles](#-articles)
